@@ -3,6 +3,11 @@ meme_dict = {
             "EZ": "FORMA DE BURLARSE DE ALGUIEN EN UNA PELEA",
             "SKIBIDI": "PALABRA SIN SIGNIFICADO",
             "INGATURRUÑA": "es un ejemplo de humor absurdo y sin sentido",
+            "OAL": "es hola mal escrito",
+            "NOBODY CAN BEAT ME BEACUSE I AM SUPER 17": "DIALOGO DE SUPER 17 DE DRAGON BALL GT"
+            
+            
+            
             }
 word = input("Escribe una palabra que no entiendas (¡con mayúsculas!): ")
 if word in meme_dict.keys():
